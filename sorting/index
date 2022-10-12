@@ -1,0 +1,11 @@
+Sorting in C++ is a concept in which the elements of an array are rearranged in a logical order. 
+This order can be from lowest to highest or highest to lowest.
+Sorting an unsorted array helps to solve many problems such as searching for the minimum or maximum element, etc
+
+types of sorting
+
+1. Bubble sort
+2. Selection sort.
+3. Insertion sort
+4. Quick sort (or) 
+5. Merge Sort 
